@@ -6,10 +6,15 @@ In short, the algorithm works by setting the Gram matrices of the input and styl
 
 ## Instructions:
 It's easy to use.  The code takes in an input image, the image that will be transformed, and a style image, the style of the image with which to perform the transformation.  
-1. In file *style_transfer.py*, modify the call to *StyleTranfer* to use your content and syle image:
+1. In file *style_transfer.py*, modify the call to *StyleTranfer* to use your content and style image:
 ```
 machine = StyleTransfer('content/yourcontentimagename.jpg', 'styles/yourstyleimagename.jpg', 333, 250)
 ```
+2. Run style_transfer.py
+```
+python style_transfer.py
+```
+
 
 
 ## References:
