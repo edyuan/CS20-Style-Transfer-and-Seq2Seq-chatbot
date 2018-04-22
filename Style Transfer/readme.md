@@ -14,9 +14,9 @@ machine = StyleTransfer('content/yourcontentimagename.jpg', 'styles/yourstyleima
 ```
 python style_transfer.py
 ```
-3. View Results in */outputs* folder
+3. View Results in */outputs* folder:
 
-![](./doc/example.png)
+![](./doc/example_2.png)
 
 
 ## References:
