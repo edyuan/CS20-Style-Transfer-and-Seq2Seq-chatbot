@@ -15,9 +15,9 @@ machine = StyleTransfer('content/yourcontentimagename.jpg', 'styles/yourstyleima
 python style_transfer.py
 ```
 3. View Results in */outputs* folder
-```
+
 ![](./doc/example.png)
-```
+
 
 ## References:
 1. Simonyan, K. & Zisserman, A. Very Deep Convolutional Networks for Large-Scale Image
